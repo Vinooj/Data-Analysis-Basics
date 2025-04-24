@@ -1,4 +1,3 @@
-### rmotr.com
-# Data Science with Python Course
+### Exploring Data Analysis with Pythone
 
-This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)
+Focus on Pandas, Numpy, 
