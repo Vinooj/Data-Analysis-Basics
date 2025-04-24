@@ -1,3 +1,3 @@
-### Exploring Data Analysis with Pythone
+### Exploring Data Analysis with Python
 
 Focus on Pandas, Numpy, 
