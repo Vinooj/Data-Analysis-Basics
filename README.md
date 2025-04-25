@@ -1,11 +1,5 @@
 ### Exploring Data Analysis with Python
 
-Python for Data Analytics
-
-https://www.yelp.com/biz/biryani-and-beyond-san-jose
-https://hinodeyasanjose.square.site/#DN6IA4UI4NFNGIOHTEFMGQCH
-
-
 Pandas ( Data Structures and Tools )
 NumPy (Arrays & matrices )
 SciPy ( Integrals, Solving diff equation, Optimization )
