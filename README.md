@@ -1,8 +1,8 @@
 ### Exploring Data Analysis with Python
 
-Pandas ( Data Structures and Tools )
-NumPy (Arrays & matrices )
-SciPy ( Integrals, Solving diff equation, Optimization )
+1. Pandas ( Data Structures and Tools )
+2. NumPy (Arrays & matrices )
+3. SciPy ( Integrals, Solving diff equation, Optimization )
 
 
 
